@@ -1,0 +1,6 @@
+framework module SSPodDemo {
+  umbrella header "SSPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

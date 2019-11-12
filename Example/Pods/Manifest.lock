@@ -1,0 +1,16 @@
+PODS:
+  - SSPodDemo (0.1.0)
+
+DEPENDENCIES:
+  - SSPodDemo (from `../`)
+
+EXTERNAL SOURCES:
+  SSPodDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSPodDemo: dbeb1b7d643f8bcfea4d3f42b3fe7f33277e4206
+
+PODFILE CHECKSUM: 8dae7724d7064a6759164001895d37d9e904d5ee
+
+COCOAPODS: 1.8.4

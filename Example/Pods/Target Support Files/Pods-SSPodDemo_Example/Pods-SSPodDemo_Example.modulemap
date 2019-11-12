@@ -1,0 +1,6 @@
+framework module Pods_SSPodDemo_Example {
+  umbrella header "Pods-SSPodDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
