@@ -11,6 +11,7 @@
 #endif
 
 #import "PODTest.h"
+#import "test22.h"
 #import "UIView+exection.h"
 
 FOUNDATION_EXPORT double SSPodDemoVersionNumber;
