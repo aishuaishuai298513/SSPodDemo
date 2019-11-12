@@ -1,5 +1,5 @@
 PODS:
-  - SSPodDemo (0.1.0)
+  - SSPodDemo (0.1.1)
 
 DEPENDENCIES:
   - SSPodDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SSPodDemo: 0376ae099bd958fc3b3f624c9e418fa075e58c7d
+  SSPodDemo: 9d090e52a4048086e7d8dc93a0446b0f5d17a8f3
 
 PODFILE CHECKSUM: 8dae7724d7064a6759164001895d37d9e904d5ee
 
