@@ -7,8 +7,10 @@
 //
 
 #import "SSViewController.h"
-
+#import "UIView+exection.h"
+#import "PODTest.h"
 @interface SSViewController ()
+@property (nonatomic, strong)UIView *myview;
 
 @end
 
@@ -17,6 +19,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    PODTest *test = [PODTest new];
+    [test podeTest];
+    
+
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
