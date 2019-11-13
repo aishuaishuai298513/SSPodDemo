@@ -1,16 +1,37 @@
 PODS:
-  - SSPodDemo (0.1.2)
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - SSPodDemo (0.1.1)
 
 DEPENDENCIES:
+  - AFNetworking (~> 3.0)
   - SSPodDemo (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
 
 EXTERNAL SOURCES:
   SSPodDemo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SSPodDemo: 4821d3945f7ad7581dfa67726f8c89713bea2be4
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  SSPodDemo: 9d090e52a4048086e7d8dc93a0446b0f5d17a8f3
 
-PODFILE CHECKSUM: 8dae7724d7064a6759164001895d37d9e904d5ee
+PODFILE CHECKSUM: 8939e5309a52feea7b94f42655af539d2462bcab
 
 COCOAPODS: 1.8.4
