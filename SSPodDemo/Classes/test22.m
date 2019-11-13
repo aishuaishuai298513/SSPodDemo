@@ -8,5 +8,7 @@
 #import "test22.h"
 
 @implementation test22
-
+static void fun1(){
+    
+}
 @end
